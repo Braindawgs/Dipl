@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <wiringPi.h>
+
+#define LED_IN 12
+#define LED_OUT 0
+int main()
+{
+	wiringPiSetup()
+	printf("Init Complete\n\r");
+	pinMode(LED_OUT,OUTPUT);
+	pinMode(12,T);
+	pullUpDnControl(12,PUD_DOWN);
+
+	while(1)
+	{
+
+	}
+
+
+	return 0;
+}

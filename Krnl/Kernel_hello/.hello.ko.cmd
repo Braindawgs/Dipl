@@ -1,0 +1,1 @@
+cmd_/home/pi/Dipl/Krnl/Kernel_hello/hello.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Dipl/Krnl/Kernel_hello/hello.ko /home/pi/Dipl/Krnl/Kernel_hello/hello.o /home/pi/Dipl/Krnl/Kernel_hello/hello.mod.o

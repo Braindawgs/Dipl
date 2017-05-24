@@ -1,1 +1,1 @@
-Uploadano na git 30.3(Debian):C,C++,Nodejs,Python,Kernel_Space
+Uploadano na git 24.5(Debian):C,C++,Nodejs,Python,Kernel_Space

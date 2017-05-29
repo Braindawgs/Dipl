@@ -1,7 +1,7 @@
  
 
 pi : ledonoff.c
-	cc -o ledonoff ledonoff.c -lwiringPi -lwiringPiDev
+	gcc -o ledonoff ledonoff.c -lwiringPi -lwiringPiDev
 
 
 
